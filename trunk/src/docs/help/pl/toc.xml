@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+				 
+<toc>
+  <tocitem text="Wprowadzenie">
+    <tocitem text="Ogólnie o programie" target="introduction/aboutProgram.html" home="true"/>
+    <tocitem text="Możliwości programu" target="introduction/features.html"/>
+    <tocitem text="Wymagania" target="introduction/requirements.html"/>
+    <tocitem text="Kontakt" target="introduction/contact.html"/>
+    <tocitem text="Licencja" target="introduction/license.html"/>
+  </tocitem>
+  <tocitem text="Przewodnik użytkownika">
+    <tocitem text="Od czego zacząć" target="userGuide/whereToStart.html"/>
+    <tocitem text="Podłączenie okularów" target="userGuide/connectingGlasses.html"/>
+    <tocitem text="Ustawienia systemowe" target="userGuide/systemSettings.html"/>
+  </tocitem>
+  <tocitem text="Opis interfejsu">
+    <tocitem text="Menu Plik" target="tabs/menuFile.html"/>
+    <tocitem text="Menu Konfiguracja" target="tabs/menuConfiguration.html"/>
+    <tocitem text="Menu Pomoc" target="tabs/menuHelp.html"/>
+    <tocitem text="Zakładka Ustawienia" target="tabs/tabSettings.html"/>
+    <tocitem text="Zakładka Pacjent" target="tabs/tabPatient.html"/>
+    <tocitem text="Zakładka Testy" target="tabs/tabTests.html"/>
+    <tocitem text="Zakładka Synoptofor" target="tabs/tabSynoptiscope.html"/>
+    <tocitem text="Zakładka Wyniki" target="tabs/tabResults.html"/>
+  </tocitem>
+  <tocitem text="Opis testów">
+    <tocitem text="Sterowanie testem" target="tests/testControl.html"/>
+    <tocitem text="Interpretacja rysunków" target="tests/pictureInterpretation.html"/>
+    <tocitem text="Testy krzyżowe" target="tests/crossTests.html"/>
+    <tocitem text="Testy klamrowe" target="tests/bracketTests.html"/>
+    <tocitem text="Test trójkątny" target="tests/triangleTest.html"/>
+    <tocitem text="Stereobalans" target="tests/stereobalance.html"/>
+    <tocitem text="Testy wskazówkowe" target="tests/pointerTests.html"/>
+    <tocitem text="Testy wektograficzne" target="tests/vectographicalTests.html"/>
+    <tocitem text="Testy kropkowe" target="tests/randomDotTests.html"/>
+    <tocitem text="Testy jednoczesnej percepcji" target="tests/simPercTests.html"/>
+    <tocitem text="Testy fuzji" target="tests/fusionTests.html"/>
+    <tocitem text="Testy stereopsji" target="tests/stereopsisTests.html"/>
+  </tocitem>
+</toc>

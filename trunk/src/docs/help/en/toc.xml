@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+
+<toc>
+  <tocitem text="Introduction">
+    <tocitem text="About program" target="introduction/aboutProgram.html" home="true"/>
+    <tocitem text="Features" target="introduction/features.html"/>
+    <tocitem text="Requirements" target="introduction/requirements.html"/>
+    <tocitem text="Contact" target="introduction/contact.html"/>
+    <tocitem text="License" target="introduction/license.html"/>
+  </tocitem>
+  <tocitem text="User guide">
+    <tocitem text="Where to start" target="userGuide/whereToStart.html"/>
+    <tocitem text="Connecting glasses" target="userGuide/connectingGlasses.html"/>
+    <tocitem text="System settings" target="userGuide/systemSettings.html"/>
+  </tocitem>
+  <tocitem text="User interface">
+    <tocitem text="Menu File" target="tabs/menuFile.html"/>
+    <tocitem text="Menu Configuration" target="tabs/menuConfiguration.html"/>
+    <tocitem text="Menu Help" target="tabs/menuHelp.html"/>
+    <tocitem text="Tab Settings" target="tabs/tabSettings.html"/>
+    <tocitem text="Tab Patient" target="tabs/tabPatient.html"/>
+    <tocitem text="Tab Tests" target="tabs/tabTests.html"/>
+    <tocitem text="Tab Synoptiscope" target="tabs/tabSynoptiscope.html"/>
+    <tocitem text="Tab Results" target="tabs/tabResults.html"/>
+  </tocitem>
+  <tocitem text="Test description">
+    <tocitem text="Test control" target="tests/testControl.html"/>
+    <tocitem text="Picture interpretation" target="tests/pictureInterpretation.html"/>
+    <tocitem text="Cross tests" target="tests/crossTests.html"/>
+    <tocitem text="Bracket tests" target="tests/bracketTests.html"/>
+    <tocitem text="Triangle test" target="tests/triangleTest.html"/>
+    <tocitem text="Stereobalance" target="tests/stereobalance.html"/>
+    <tocitem text="Pointer tests" target="tests/pointerTests.html"/>
+    <tocitem text="Vectographical tests" target="tests/vectographicalTests.html"/>
+    <tocitem text="Random dot tests" target="tests/randomDotTests.html"/>
+    <tocitem text="Tests for simultaneous perception" target="tests/simPercTests.html"/>
+    <tocitem text="Tests for fusion" target="tests/fusionTests.html"/>
+    <tocitem text="Tests for stereopsis" target="tests/stereopsisTests.html"/>
+  </tocitem>
+</toc>
