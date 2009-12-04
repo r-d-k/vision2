@@ -1,0 +1,38 @@
+﻿#summary User manual.
+#labels Featured
+
+= Wprowadzenie =
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/introduction/aboutProgram.html Ogólnie o programie]
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/introduction/features.html Możliwości programu]
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/introduction/requirements.html Wymagania]
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/introduction/contact.html Kontakt]
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/introduction/license.html Licencja]
+
+= Przewodnik użytkownika =
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/userGuide/whereToStart.html Od czego zacząć]
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/userGuide/connectingGlasses.html Podłączenie okularów]
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/userGuide/systemSettings.html Ustawienia systemowe]
+
+= Opis interfejsu =
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/tabs/menuFile.html Menu Plik]
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/tabs/menuConfiguration.html Menu Konfiguracja]
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/tabs/menuHelp.html Menu Pomoc]
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/tabs/tabSettings.html Zakładka Ustawienia]
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/tabs/tabPatient.html Zakładka Pacjent]
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/tabs/tabTests.html Zakładka Testy]
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/tabs/tabSynoptiscope.html Zakładka Synoptofor]
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/tabs/tabResults.html Zakładka Wyniki]
+
+= Opis testów =
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/tests/testControl.html Sterewanie testem]
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/tests/pictureInterpretation.html Interpretacja rysunków]
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/tests/crossTests.html Testy krzyżowe]
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/tests/bracketTests.html Testy klamrowe]
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/tests/triangleTest.html Test trójkątny]
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/tests/stereobalance.html Stereobalans]
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/tests/pointerTests.html Testy wskazówkowe]
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/tests/vectographicalTests.html Testy wektograficzne]
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/tests/randomDotTests.html Testy kropkowe]
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/tests/simPercTests.html Testy jednoczesnej percepcji]
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/tests/fusionTests.html Testy fuzji]
+  * [http://vision2.googlecode.com/svn/trunk/src/docs/help/pl/tests/stereopsisTests.html Testy stereopsji]
