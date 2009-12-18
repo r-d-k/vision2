@@ -2,7 +2,6 @@
 #labels Featured
 
 = Introduction =
-TEST
   * [http://vision2.googlecode.com/svn/trunk/src/docs/help/en/introduction/aboutProgram.html About program]
   * [http://vision2.googlecode.com/svn/trunk/src/docs/help/en/introduction/features.html Features]
   * [http://vision2.googlecode.com/svn/trunk/src/docs/help/en/introduction/requirements.html Requirements]
